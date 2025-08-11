@@ -1,0 +1,11 @@
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\ReaLTaiizor.xml
+E:\Courses\Projects\DVLD1-master\BusinessLayer\bin\Debug\Skylark.xml
+E:\Courses\Projects\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\Courses\Projects\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Courses\Projects\DVLD1-master\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\Courses\Projects\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Courses\Projects\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.pdb

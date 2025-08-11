@@ -1,0 +1,24 @@
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\ReaLTaiizor.dll
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\Skylark.dll
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\ReaLTaiizor.xml
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\bin\Debug\Skylark.xml
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\obj\Debug\DVLD1_BusinessLayer.csproj.AssemblyReference.cache
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\obj\Debug\DVLD1_BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\obj\Debug\DVLD1_Bu.7F6CE2A4.Up2Date
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Courses\Programming Advices Courses_M. AbuHadhoud\19 - Full Real Project\DVLD1-master\DVLD1-master\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\ReaLTaiizor.xml
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\bin\Debug\Skylark.xml
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\obj\Debug\DVLD1_BusinessLayer.csproj.AssemblyReference.cache
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\obj\Debug\DVLD1_BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\obj\Debug\DVLD1_Bu.7F6CE2A4.Up2Date
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\Courses\Projects\DVLD1-master\DVLD11\DVLD1_BusinessLayer\obj\Debug\BusinessLayer.pdb
